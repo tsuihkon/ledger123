@@ -59,7 +59,6 @@ $self{texts} = {
   'Month'                       => 'Kuukausi',
   'No open Projects!'           => 'Projekteja ei auki',
   'Notes'                       => 'Lisätietoja',
-  'Nothing selected!'           => 'Mitään valitsematta!',
   'Number'                      => 'Numero',
   'Orders generated!'           => 'Tilaukset luotu',
   'Orphaned'                    => 'Hylätyt',

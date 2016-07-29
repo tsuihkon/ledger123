@@ -40,6 +40,7 @@ $self{texts} = {
   'Job Number missing!'         => 'Työnumero puuttuu',
   'Labor Code'                  => 'Työkoodi',
   'Labor Code missing!'         => 'Työkoodi puuttuu',
+  'Locked by'                   => 'Lukon tehnyt käyttäjä',
   'Monday'                      => 'Maanantai',
   'Month'                       => 'Kuukausi',
   'No Employees on file!'       => 'Ei työntekijöitä tallennettuna',
